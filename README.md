@@ -125,16 +125,16 @@ http://127.0.0.1:8000/docs
 <img width="500" height="400" alt="Q2_get_all_items png" src="https://github.com/user-attachments/assets/a04f7de6-3ef6-426b-bedb-a95a2e962680" />
 
 ### Order Creation
-<img width="500" height="600" alt="Q5_orders_list png" src="https://github.com/user-attachments/assets/909b3c0a-94e7-4126-99a1-bbbc36b85f85" />
+<img width="500" height="400" alt="Q5_orders_list png" src="https://github.com/user-attachments/assets/909b3c0a-94e7-4126-99a1-bbbc36b85f85" />
 
 ### Cart Checkout
-<img width="500" height="600" alt="Q15_checkout png" src="https://github.com/user-attachments/assets/b4661e14-72c5-4f00-aa0e-6bc946b3c8ee" />
+<img width="500" height="400" alt="Q15_checkout png" src="https://github.com/user-attachments/assets/b4661e14-72c5-4f00-aa0e-6bc946b3c8ee" />
 
 ### Menu Filtering
-<img width="500" height="600" alt="Q10_filter_menu png" src="https://github.com/user-attachments/assets/14e0d351-9747-42b0-97f3-eff42249f7ce" />
+<img width="500" height="400" alt="Q10_filter_menu png" src="https://github.com/user-attachments/assets/14e0d351-9747-42b0-97f3-eff42249f7ce" />
 
 ## Pagination
-<img width="500" height="600" alt="Q18_pagination png" src="https://github.com/user-attachments/assets/4bbca3d2-43fc-47a9-ae0d-60a020c52f56" />
+<img width="500" height="400" alt="Q18_pagination png" src="https://github.com/user-attachments/assets/4bbca3d2-43fc-47a9-ae0d-60a020c52f56" />
 
 ---
 
