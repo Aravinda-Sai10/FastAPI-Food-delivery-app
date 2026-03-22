@@ -122,21 +122,18 @@ http://127.0.0.1:8000/docs
 ## 📸 Project Screenshots
 
 ### Menu API
-<img width="664" height="948" alt="Q2_get_all_items png" src="https://github.com/user-attachments/assets/09484ebf-fb17-49f6-8d19-459df2b7dadd" />
+<img src="screenshots/Q2_get_all_items.png" width="500">
 
 
 ### Order Creation
-<img width="760" height="955" alt="Q5_orders_list png" src="https://github.com/user-attachments/assets/e49a115a-0f99-45e3-b42f-b0b0635d1687" />
-
+<img src="screenshots/Q8_place_order.png" width="500">
 ### Cart Checkout
-<img width="837" height="959" alt="Q15_checkout png" src="https://github.com/user-attachments/assets/4700affa-9788-4bdc-8af1-9ad7fd9a5419" />
-
+<img src="screenshots/Q15_checkout.png" width="500">
 ### Menu Filtering
-<img width="715" height="964" alt="Q17_sort_menu png" src="https://github.com/user-attachments/assets/cc1d6689-e43e-463c-b09f-b18f9310b3f9" />
+<img src="screenshots/Q10_filter_menu.png" width="500">
 
 ### Pagination
-<img width="686" height="958" alt="Q18_pagination png" src="https://github.com/user-attachments/assets/d24d1b85-d367-49e2-b7e0-d4a5d95e32b9" />
-
+<img src="screenshots/Q18_pagination.png" width="500">
 ---
 
 ## 📌 Important API Endpoints
