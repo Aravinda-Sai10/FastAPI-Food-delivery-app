@@ -144,30 +144,30 @@ http://127.0.0.1:8000/docs
 ### Menu APIs
 
 GET /menu
-GET /menu/{item_id}
-GET /menu/filter
-GET /menu/search
-GET /menu/sort
-GET /menu/page
-GET /menu/browse
+• GET /menu/{item_id}
+• GET /menu/filter
+• GET /menu/search
+• GET /menu/sort
+• GET /menu/page
+• GET /menu/browse
 
 
 ### Order APIs
 
 
-POST /orders
-GET /orders
-GET /orders/search
-GET /orders/sort
+• POST /orders
+• GET /orders
+• GET /orders/search
+• GET /orders/sort
 
 
 ### Cart APIs
 
 
-POST /cart/add
-GET /cart
-DELETE /cart/{item_id}
-POST /cart/checkout
+• POST /cart/add
+• GET /cart
+• DELETE /cart/{item_id}
+• POST /cart/checkout
 
 
 ---
