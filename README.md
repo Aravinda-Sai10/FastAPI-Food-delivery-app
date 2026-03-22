@@ -49,15 +49,15 @@ This project was developed as part of my **FastAPI Internship training at Innoma
 ## 🛠 Tech Stack
 
 **Backend:**
-- Python
-- FastAPI
-- Pydantic
-- Uvicorn
+• Python
+• FastAPI
+• Pydantic
+• Uvicorn
 
 **Tools:**
-- Swagger UI
-- VS Code
-- GitHub
+• Swagger UI
+• VS Code
+• GitHub
 
 ---
 
@@ -154,10 +154,10 @@ GET /menu
 
 ### Order APIs
 
-POST /orders
-GET /orders
-GET /orders/search
-GET /orders/sort
+• POST /orders
+• GET /orders
+• GET /orders/search
+• GET /orders/sort
 
 
 ### Cart APIs
