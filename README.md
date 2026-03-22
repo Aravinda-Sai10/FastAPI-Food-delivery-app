@@ -130,8 +130,8 @@ http://127.0.0.1:8000/docs
 ### Cart Checkout
 <img src="screenshots/Q15_checkout.png" width="500">
 ### Menu Filtering
-<img src="screenshots/Q10_filter_menu.png" width="500">
-
+## Pagination
+<img src="screenshots/Q18_pagination.png" width="500">
 ### Pagination
 <img src="screenshots/Q18_pagination.png" width="500">
 ---
