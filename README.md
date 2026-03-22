@@ -154,11 +154,10 @@ GET /menu
 
 ### Order APIs
 
-
-• POST /orders
-• GET /orders
-• GET /orders/search
-• GET /orders/sort
+POST /orders
+GET /orders
+GET /orders/search
+GET /orders/sort
 
 
 ### Cart APIs
